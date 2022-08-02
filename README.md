@@ -10,8 +10,7 @@ We shall require a running kubernetes cluster ( Here we are using minikube clust
 
 ## Proposed Architecture >>
 
-![Alt text](./Istio.jpg?raw=true "Architecture")
-
+![Architecture](./Istio.jpg)
 
 ## Installing Minikube in local system >>
 
